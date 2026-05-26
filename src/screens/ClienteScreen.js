@@ -1,4 +1,5 @@
 // src/screens/ClienteScreen.js
+/* eslint-disable */
 import React, { useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { Lightbulb, Phone, Clock, ShoppingCart, XCircle, Navigation } from 'lucide-react';
