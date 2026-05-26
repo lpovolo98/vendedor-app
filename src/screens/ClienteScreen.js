@@ -20,7 +20,7 @@ export default function ClienteScreen() {
       timer.start();
     }
     return () => timer.stop();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line
   }, [id]);
 
   if (!cliente) {
